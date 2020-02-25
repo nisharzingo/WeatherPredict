@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2CDACC</color>
+    <color name="colorPrimaryDark">#41EEE1</color>
+    <color name="colorAccent">#1D8382</color>
+    <color name="square_bg">#3CF1EBF1</color>
+
+    <color name="progress_gray">#3CF1EBF1</color>
+    <color name="progress_gray_dark">#FF383838</color>
+    <color name="default_blue_light">#FFD8D8D8</color>
+</resources>

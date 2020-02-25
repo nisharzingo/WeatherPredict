@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Predict</string>
+    <string name="wrong_string">Something went wrong</string>
+    <string name="comfort_level">COMFORT LEVEL</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">WIND</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="pressure">Pressure</string>
+    <string name="forecast">FORECAST</string>
+</resources>
